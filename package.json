@@ -1,0 +1,15 @@
+{
+  "name": "fuzzy-search",
+  "version": "1.0.0",
+  "description": "Implementación de algorítmo de búsqueda",
+  "main": "index.js",
+  "scripts": {
+    "init": "node index.js",
+    "add": "node actions/add.js",
+    "list": "node actions/list.js",
+    "fuzzy-search": "node actions/search.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Pérez C",
+  "license": "ISC"
+}
